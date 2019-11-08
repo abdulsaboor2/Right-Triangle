@@ -1,3 +1,6 @@
+// This program is created by Zain Shahid
+
+
 #include<iostream>
 using namespace std;
 int main(){
